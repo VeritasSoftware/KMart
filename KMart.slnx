@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KMart.Lib/KMart.Lib.csproj" />
+  <Project Path="KMart.Tests/KMart.Tests.csproj" Id="24c594da-d427-422c-96e4-223fcb01e769" />
+</Solution>
